@@ -20,6 +20,7 @@ It allows users to explore places, view listings, and experience a modern rental
 .🗄️ Data stored securely in MongoDB
 
 
+
 🤝 Contributing
 
 Contributions are welcome!
@@ -31,6 +32,8 @@ This project is licensed under the MIT License.
 
 
 Acknowledgements:
+
+
 Inspired by Airbnb
 Built with ❤️ using the MERN Stack
 
